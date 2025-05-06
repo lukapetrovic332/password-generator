@@ -169,7 +169,7 @@ Spinbox(): A widget that allows the user to select a number (between 4 and 64). 
 to the variable length_var, hich stores the selected length.
 
 Checkbuttons for Character Types
-k.Checkbutton(root, text="Include Letters (a-z)", variable=letters_var, bg="#2c2c2c", fg="white", selectcolor="#444",
+tk.Checkbutton(root, text="Include Letters (a-z)", variable=letters_var, bg="#2c2c2c", fg="white", selectcolor="#444",
 command=toggle_letters).pack(anchor="w", padx=20)
 
 checkbutton(): Creates a checkbox. The variable argument binds it to a BooleanVar() (e.g., letters_var) which stores
