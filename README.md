@@ -189,7 +189,8 @@ root.mainloop(): This line starts the GUI event loop, which keeps the window ope
 
 Conclusion
 
-This simple password generator allows you to customize the password's length and character types. The use of tkinter for the GUI and Python's built-in modules like random and string makes it easy to understand and modify.
+This simple password generator allows you to customize the password's length and character types. The use of tkinter for the GUI and Python's built-in
+modules like random and string makes it easy to understand and modify.
 
 Feel free to modify the GUI or the password generation logic to suit your needs!
 
@@ -198,6 +199,7 @@ Feel free to modify the GUI or the password generation logic to suit your needs!
 
 ### 🎉 Summary
 
-In this version of the **README**, I have broken down the entire code into sections and explained **why** each part is necessary. It explains how the functions interact with the GUI, why we use specific variables, and the overall flow of the program.
+In this version of the **README**, I have broken down the entire code into sections and explained **why** each part is necessary. It explains how the
+functions interact with the GUI, why we use specific variables, and the overall flow of the program.
 
 You can now copy this into a `README.md` file and add it to your GitHub project! Let me know if you'd like any changes or additions!
